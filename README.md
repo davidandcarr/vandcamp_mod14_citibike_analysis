@@ -16,7 +16,7 @@ That said, the primary use of Citibikes comes from men, with nearly 4 times as m
 
 Despite the overall skew in gender use, both genders have the same usage trends, with commute times yielding the most trips regardless of gender.
 
-![usage trends by hour and day](images/trips_perDay_pereHour.png)
+![usage trends by hour and day](images/trips_perDay_perHour.png)
 
 As a former resident, this chart is congruous with the apparent bike population throughout the city. Commute hours yield high bike congestion due to the population that wishes to dodge the subway, stay health-conscious, or simply enjoy the sights and sounds of the city. Similarly, Saturday shows a spike of usage from residents and tourists alike, as does Sunday after the typical brunch hours.
 
